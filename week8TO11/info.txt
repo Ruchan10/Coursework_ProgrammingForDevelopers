@@ -1,5 +1,0 @@
-From: 0 To: 1  Distance: 2 Km   Info: house1 has water
-From: 1 To: 2  Distance: 1 Km   Info: house1 and house2 are connected
-From: 2 To: 3  Distance: 2 Km   Info: house2 to 3
-From: 0 To: 3  Distance: 3 Km   Info: house3 has water
-
